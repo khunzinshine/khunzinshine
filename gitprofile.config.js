@@ -44,12 +44,23 @@ const config = {
       position: 'Junior React Developer',
       from: 'March 2021',
       to: 'Present',
+      description:
+        'AYA Innovation Labs is the in-house software development department of the AYA Bank (Digital Banking).',
     },
     {
       company: 'AYA Innovation Labs (AYA Bank)',
       position: 'Quality Assurance Tester',
       from: 'March 2020',
       to: 'Feburary 2021',
+      description: '',
+    },
+    {
+      company: 'Acroquest Myanmar Technology Co.,Ltd',
+      position: 'Internship',
+      from: 'May 2019',
+      to: 'July 2019',
+      description:
+        'Acroquest Myanmar is subsidiary corporation of Acroquest Technology Co.,Ltd (Japan).',
     },
   ],
   education: [
